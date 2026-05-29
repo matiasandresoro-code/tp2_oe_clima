@@ -1,3 +1,5 @@
+
+
 # tp2_oe_clima
 
 Trabajo Practico N. 2. Gestion Colaborativa, Control de Versiones y Organizacion Empresarial.
@@ -13,3 +15,5 @@ utilizando MATPLOTLIB para la realizacion de graficos.
 
 El script se encuentra dentro de la carpeta scripts, y se llama analisis_datos.py
 Dentro de la carpeta datos se encuentra el dataset, y dentro de la carpeta resultados se encuentra el grafico del resultado.
+
+Analisis de temperatura de la ciudad de Rosario completado con exito, aunque faltan datos sobre precipitaciones.
